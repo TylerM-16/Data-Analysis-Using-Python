@@ -31,3 +31,5 @@ The project lays the groundwork for future enhancements, such as [mention potent
 ## Contact Information
 Feel free to reach out to me at [your email address] for any questions, feedback, or collaboration opportunities related to this project.
 
+Here are some example codes:
+
