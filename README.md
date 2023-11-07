@@ -29,7 +29,7 @@ The project is organized into the following key sections:
 The project lays the groundwork for future enhancements, such as [mention potential areas for additional analysis or the integration of more advanced machine learning techniques] to gain deeper insights into the automotive industry and related datasets.
 
 ## Contact Information
-Feel free to reach out to me at [your email address] for any questions, feedback, or collaboration opportunities related to this project.
+Feel free to reach out to me at [Tylermc4@outlook.com] for any questions, feedback, or collaboration opportunities related to this project.
 
 Here are some example codes:
 
